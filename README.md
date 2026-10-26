@@ -2,7 +2,7 @@
 
 **Zombie Survival** is a 2D Processing platformer: jump a sprite-sheet zombie between platforms, dodge falling balls, collect stars for score, and grab health packs to stay alive.
 
-This folder is the Graphics coursework. It includes the Processing sketch (extracted from `main.zip`), the original zip, and a How To Play guide.
+Earlier Graphics module work (2D sprites and simple physics). For 3D dynamics see [Marble Race](https://github.com/NWAFORTY/Graphics-for-Games-and-Dynamics-Modelling). The sketch, zip, and How To Play guide are in this repo.
 
 ## Run the sketch
 
